@@ -1,3 +1,4 @@
+package typeCasting;
 public class Test2 {
     public static void main(String args[]){
      char ch = 'b';
